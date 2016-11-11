@@ -4,7 +4,7 @@ import java.text.SimpleDateFormat
 
 object odlogiccall {
   def main(args: Array[String]): Unit = {
-    
+    //THIS IS MY SECOND COMMIT THIS IS FOR TESTING PURPORSE
      //val loadData = new LoadData()
      var mapAirsellOD = new java.util.TreeMap[Integer, ODClass]
      //mapAirsellOD=LoadData.loadData1()
